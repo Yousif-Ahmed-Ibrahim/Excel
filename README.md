@@ -1,5 +1,3 @@
-# Excel
-Sales Analysis (Superstore)
 # Sales Analysis - Superstore 
 
 ## Project Overview
