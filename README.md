@@ -17,9 +17,6 @@ This project analyzes sales data from a retail superstore to uncover insights in
 -  Seasonal trends affecting sales performance.
 -  Low-performing products flagged for further review.
 
-## Visuals
- Sample dashboards and charts (optional - you can add screenshots if available)
-
 ---
 
 ## About Me
